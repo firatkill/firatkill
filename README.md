@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Firat Kil.
+-  Im a Frontend Web Developer who tries to make it FullStack
+- 🌱 I’m currently and for a long time will be learning ReactJS-VueJS
