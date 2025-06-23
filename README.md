@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fırat Kıl</h1>
-<h3 align="center">I'm a dedicated FullStack Developer with advanced expertise in JavaScript, React, and Vue. My journey in web development has equipped me with the skills to build complex and dynamic applications. In addition to my frontend proficiency, I have developed applications using React Native and possess in-depth knowledge of backend technologies like Node.js and Spring boot.</h3>
+<h3 align="center">I'm a dedicated FullStack Developer with advanced expertise in  Java, Spring boot, JavaScript, React, and Vue. My journey in web development has equipped me with the skills to build complex and dynamic applications. In addition to my frontend proficiency, I have developed applications using React Native and possess in-depth knowledge of backend technologies like Node.js and Spring boot.</h3>
 
 - 🔭 I’m currently working on [Twitter Full-stack App (Vue - React Native - Electron - Spring Boot)](https://github.com/firatkill/twitter_fullstack_app)
 
