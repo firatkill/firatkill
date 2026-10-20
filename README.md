@@ -1,18 +1,30 @@
-<h1 align="center">Hi 👋, I'm Fırat Kıl</h1>
-<h3 align="center">I'm a dedicated FullStack Developer with advanced expertise in  Java, Spring boot, JavaScript, React, and Vue. My journey in web development has equipped me with the skills to build complex and dynamic applications. In addition to my frontend proficiency, I have developed applications using React Native and possess in-depth knowledge of backend technologies like Node.js and Spring boot.</h3>
+# Fırat Kıl
 
-- 👨‍💻 All of my projects are available at [firatkil.vercel.app](firatkil.vercel.app)
+Full-stack developer in Ankara, Türkiye. I build AI-powered SaaS products end to end, from the data model and auth to billing, background jobs, tests and deployment. Mostly Next.js, TypeScript and PostgreSQL.
 
-- 💬 Ask me about **Javascript, Spring boot, React, VueJS**
+Since September 2025 I've been a full-stack developer at Vizio AI, an AI product studio, where I lead or solely build client products: a legal research assistant with cited answers, a recruiting platform, an AI customer-support suite, the backend of a live auction marketplace and an HVAC takeoff and quoting tool. That work lives in private client repositories; [firatkil.com](https://firatkil.com) describes it in more detail.
 
-- 📫 How to reach me **firatkill.is@gmail.com**
+## What I work with
 
-- ⚡ Fun fact **I think i am funny.**
+- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS, TanStack Query
+- **Backend:** Node.js, NestJS, REST, SSE, WebSockets, Spring Boot
+- **Data:** PostgreSQL and Supabase (row-level security, SQL functions), pgvector, Redis, MongoDB
+- **AI:** OpenAI, Gemini, Vercel AI SDK, retrieval-augmented generation, streaming chat, text-to-speech
+- **Shipping:** Stripe, BullMQ, Docker, Vercel, Azure, GitHub Actions, Playwright, Vitest, pgTAP
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/firatkill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firatkill" height="30" width="40" /></a>
-</p>
+## Public projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [d-viz_farki](https://github.com/firatkill/d-viz_farki) | Reads Turkish e-invoice archives in the browser, matches payments to invoices first in, first out, and reports exchange-rate differences for accountants | Next.js, Supabase, Vitest |
+| [ymm-invoice-app](https://github.com/firatkill/ymm-invoice-app) | Bulk e-invoice processing: upload a ZIP and BullMQ workers parse each invoice with retries and live progress | Next.js, BullMQ, Redis, Prisma |
+| [devlink-app](https://github.com/firatkill/devlink-app) | REST API for developer link pages with JWT security; I recorded the build on YouTube | Java 21, Spring Boot, PostgreSQL |
+| [latest-portfolio](https://github.com/firatkill/latest-portfolio) | The source of firatkil.com | Next.js |
+
+## How I work
+
+I write most code with AI coding agents. I still own the data model, the security rules and the tests, and I read every change before it ships. I like putting rules where they can't be skipped: row-level security in the database, payment state changed only by verified webhooks, concurrency-sensitive logic inside Postgres functions.
+
+## Contact
+
+[firatkil.com](https://firatkil.com) · [LinkedIn](https://linkedin.com/in/firatkill) · firatkill.is@gmail.com
