@@ -18,7 +18,7 @@ Since September 2025 I've been a full-stack developer at Vizio AI, an AI product
 | --- | --- | --- |
 | [d-viz_farki](https://github.com/firatkill/d-viz_farki) | Reads Turkish e-invoice archives in the browser, matches payments to invoices first in, first out, and reports exchange-rate differences for accountants | Next.js, Supabase, Vitest |
 | [ymm-invoice-app](https://github.com/firatkill/ymm-invoice-app) | Bulk e-invoice processing: upload a ZIP and BullMQ workers parse each invoice with retries and live progress | Next.js, BullMQ, Redis, Prisma |
-| [devlink-app](https://github.com/firatkill/devlink-app) | REST API for developer link pages with JWT security; I recorded the build on YouTube | Java 21, Spring Boot, PostgreSQL |
+| [devlink-app](https://github.com/firatkill/devlink-app) | REST API for developer link pages with JWT security; I recorded the build on YouTube | Java 17, Spring Boot, PostgreSQL |
 | [latest-portfolio](https://github.com/firatkill/latest-portfolio) | The source of firatkil.com | Next.js |
 
 ## How I work
