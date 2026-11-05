@@ -12,15 +12,6 @@ Since September 2025 I've been a full-stack developer at Vizio AI, an AI product
 - **AI:** OpenAI, Gemini, Vercel AI SDK, retrieval-augmented generation, streaming chat, text-to-speech
 - **Shipping:** Stripe, BullMQ, Docker, Vercel, Azure, GitHub Actions, Playwright, Vitest, pgTAP
 
-## Public projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [fx-difference-calculator](https://github.com/firatkill/fx-difference-calculator) | Reads Turkish e-invoice archives in the browser, matches payments to invoices first in, first out, and reports exchange-rate differences for accountants | Next.js, Supabase, Vitest |
-| [ymm-invoice-app](https://github.com/firatkill/ymm-invoice-app) | Bulk e-invoice processing: upload a ZIP and BullMQ workers parse each invoice and report live progress | Next.js, BullMQ, Redis, Prisma |
-| [devlink-app](https://github.com/firatkill/devlink-app) | REST API for developer link pages with JWT security; I recorded the build on YouTube | Java 17, Spring Boot, PostgreSQL |
-| [latest-portfolio](https://github.com/firatkill/latest-portfolio) | The source of firatkil.com | Next.js |
-
 ## How I work
 
 I write most code with AI coding agents. I still own the data model, the security rules and the tests, and I read every change before it ships. I like putting rules where they can't be skipped: row-level security in the database, payment state changed only by verified webhooks, concurrency-sensitive logic inside Postgres functions.
