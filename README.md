@@ -16,10 +16,12 @@ Since September 2025 I've been a full-stack developer at Vizio AI, an AI product
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [fx-difference-calculator](https://github.com/firatkill/fx-difference-calculator) | Reads Turkish e-invoice archives in the browser, matches payments to invoices first in, first out, and reports exchange-rate differences for accountants | Next.js, Supabase, Vitest |
-| [ymm-invoice-app](https://github.com/firatkill/ymm-invoice-app) | Bulk e-invoice processing: upload a ZIP and BullMQ workers parse each invoice and report live progress | Next.js, BullMQ, Redis, Prisma |
-| [devlink-app](https://github.com/firatkill/devlink-app) | REST API for developer link pages with JWT security; I recorded the build on YouTube | Java 17, Spring Boot, PostgreSQL |
-| [latest-portfolio](https://github.com/firatkill/latest-portfolio) | The source of firatkil.com | Next.js |
+| [bidlock](https://github.com/firatkill/bidlock) | A live auction engine that stays correct under load | Next.js, Supabase, PostgreSQL, Vitest, Playwright |
+| [outbox](https://github.com/firatkill/outbox) | Transactional outbox, relay and inbox for PostgreSQL: at-least-once delivery with leases, retries, dead letters and per-key ordering | TypeScript, PostgreSQL, Vitest |
+| [sourced](https://github.com/firatkill/sourced) | A small RAG app and starter kit over the PostgreSQL 17 docs; every citation is checked on the server before you see it | Next.js, Vercel AI SDK, OpenAI, pgvector, Drizzle |
+| [rehearse](https://github.com/firatkill/rehearse) | Voice mock-interview coach: answer questions out loud in the browser and get rubric-based feedback on every answer | Next.js, Vercel AI SDK, Web Speech API, Upstash Redis |
+| [erranderpy](https://github.com/firatkill/erranderpy) | Small personal agents you talk to on Telegram; add an agent by adding a folder and bring any LLM key | Python, python-telegram-bot, SQLite, Anthropic/OpenAI/Gemini |
+| [markdownToPdf](https://github.com/firatkill/markdownToPdf) | Tiny native macOS app: drag and drop Markdown files, get clean PDFs | Swift, SwiftUI |
 
 ## How I work
 
