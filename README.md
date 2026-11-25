@@ -1,31 +1,39 @@
 # Fırat Kıl
 
-Full-stack developer in Ankara, Türkiye. I build AI-powered SaaS products end to end, from the data model and auth to billing, background jobs, tests and deployment. Mostly Next.js, TypeScript and PostgreSQL.
+Full-stack and AI engineer in Ankara, Türkiye. I build AI-powered SaaS products end to end with **Next.js, TypeScript, Node.js and PostgreSQL**: data model, auth and billing, background jobs, LLM features, tests and deployment. 2+ years professional, 6+ years in total, 10+ client products shipped.
 
-Since September 2025 I've been a full-stack developer at Vizio AI, an AI product studio, where I lead or solely build client products: a legal research assistant with cited answers, a recruiting platform, an AI customer-support suite, the backend of a live auction marketplace and an HVAC takeoff and quoting tool. That work lives in private client repositories; [firatkil.com](https://firatkil.com) describes it in more detail.
+From September 2025 to November 2026 I was a full-stack developer at **Vizio AI**, an AI product studio. I built AI customer-support, recruiting, legal-research, HVAC quoting and live-auction products for international clients, often taking one on alone and handling every stage. That work lives in private client repositories; [firatkil.com](https://firatkil.com) describes it in more detail.
+
+I am open to full-stack and AI engineering roles, remote or in Türkiye, and I am willing to relocate.
 
 ## What I work with
 
-- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS, TanStack Query
-- **Backend:** Node.js, NestJS, REST, SSE, WebSockets, Spring Boot
-- **Data:** PostgreSQL and Supabase (row-level security, SQL functions), pgvector, Redis, MongoDB
-- **AI:** OpenAI, Gemini, Vercel AI SDK, retrieval-augmented generation, streaming chat, text-to-speech
-- **Shipping:** Stripe, BullMQ, Docker, Vercel, Azure, GitHub Actions, Playwright, Vitest, pgTAP
-- 
+- **Languages:** TypeScript, JavaScript, SQL, HTML, CSS, Python (FastAPI basics)
+- **Frontend:** Next.js (App Router), React, Tailwind CSS, TanStack Query, Zustand
+- **Backend:** Node.js, NestJS, Express, REST APIs, WebSockets, SSE, BullMQ
+- **Data:** PostgreSQL and Supabase (row-level security, SQL functions), pgvector, Redis, Prisma, MongoDB
+- **AI:** LLM applications, RAG, OpenAI, Gemini, Vercel AI SDK, embeddings, hybrid search and reranking, streaming chat
+- **Shipping:** Git, GitHub Actions, CI/CD, Docker, Vercel, Azure, AWS, Stripe, Sentry
+- **Testing:** Playwright, Vitest, Jest, pgTAP
+- **Daily tools:** Coding Agents (Claude, Codex)
+
 ## Public projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [bidlock](https://github.com/firatkill/bidlock) | A live auction engine that stays correct under load | Next.js, Supabase, PostgreSQL, Vitest, Playwright |
-| [outbox](https://github.com/firatkill/outbox) | Transactional outbox, relay and inbox for PostgreSQL: at-least-once delivery with leases, retries, dead letters and per-key ordering | TypeScript, PostgreSQL, Vitest |
-| [sourced](https://github.com/firatkill/sourced) | A small RAG app and starter kit over the PostgreSQL 17 docs; every citation is checked on the server before you see it | Next.js, Vercel AI SDK, OpenAI, pgvector, Drizzle |
-| [rehearse](https://github.com/firatkill/rehearse) | Voice mock-interview coach: answer questions out loud in the browser and get rubric-based feedback on every answer | Next.js, Vercel AI SDK, Web Speech API, Upstash Redis |
-| [erranderpy](https://github.com/firatkill/erranderpy) | Small personal agents you talk to on Telegram; add an agent by adding a folder and bring any LLM key | Python, python-telegram-bot, SQLite, Anthropic/OpenAI/Gemini |
-| [markdownToPdf](https://github.com/firatkill/markdownToPdf) | Tiny native macOS app: drag and drop Markdown files, get clean PDFs | Swift, SwiftUI |
+| [sourced](https://github.com/firatkill/sourced) ([demo](https://sourced.firatkil.com)) | A kit for a chatbot over your own documents: hybrid search, reranking, answers whose citations the server verifies, and an evaluation suite | Next.js, PostgreSQL 17, pgvector, OpenAI |
+| [bidlock](https://github.com/firatkill/bidlock) ([demo](https://bidlock.firatkil.com)) | A live auction engine that stays correct under concurrent load, with a published 500-user load test | Next.js, Supabase, PostgreSQL, Playwright |
+| [rehearse](https://github.com/firatkill/rehearse) ([demo](https://rehearse.firatkil.com)) | A voice mock-interview coach with rubric-based feedback; self-host with Docker Compose | Next.js, OpenAI, SQLite, Docker |
+| [outbox](https://github.com/firatkill/outbox) | Transactional outbox, relay and inbox for PostgreSQL with at-least-once delivery (work in progress) | TypeScript, PostgreSQL |
+| [efatura](https://github.com/firatkill/efatura) | Parses Turkish e-invoices (UBL-TR e-Fatura and e-Arşiv) into typed data, in Node and the browser | TypeScript |
+| [fx-difference-calculator](https://github.com/firatkill/fx-difference-calculator) | Web app for accountants: imports e-invoice ZIP archives, applies payments FIFO, exports an Excel report | Next.js, Supabase |
+| [songsmith](https://github.com/firatkill/songsmith) | AI songwriting app with provider-agnostic model routing (in development) | TypeScript, Turborepo, Supabase |
+| [erranderpy](https://github.com/firatkill/erranderpy) | Small personal agents you talk to on Telegram; works with any LLM key | Python, SQLite, Anthropic, OpenAI, Gemini |
+| [markdownToPdf](https://github.com/firatkill/markdownToPdf) | Tiny native macOS app: drop Markdown files in, get clean PDFs out | Swift, SwiftUI |
 
 ## How I work
 
-I write most code with AI coding agents. I still own the data model, the security rules and the tests, and I read every change before it ships. I like putting rules where they can't be skipped: row-level security in the database, payment state changed only by verified webhooks, concurrency-sensitive logic inside Postgres functions.
+I like putting rules where they cannot be skipped: row-level security in the database, payment state changed only by verified webhooks, concurrency-sensitive logic inside Postgres functions. I work daily with Coding Agents (Claude, Codex), and I own the data model, the security rules and the tests.
 
 ## Contact
 
